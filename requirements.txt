@@ -1,0 +1,6 @@
+flask==3.0.3
+flask-cors==4.0.1
+pymongo==4.7.2
+scapy==2.5.0
+numpy==1.26.4
+python-dotenv==1.0.1
